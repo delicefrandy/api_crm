@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nombre": "Edzaire durandisse",
+      "empresa": "apeka",
+      "email": "edzairedurandisse@gmail.com",
+      "telefono": "5094512530",
+      "nota": "venta de pollos",
+      "id": 4
+    },
+    {
+      "nombre": "aston jean charles",
+      "empresa": "djovani",
+      "email": "djovani@gmail.com",
+      "telefono": "4525222515",
+      "nota": "venta de cementos",
+      "id": 7
+    },
+    {
+      "nombre": "wiselie charles",
+      "empresa": "banco de venezuela",
+      "email": "wiselie@gmail.com",
+      "telefono": "415758754",
+      "nota": "solicitud de tarjea de credito",
+      "id": 8
+    },
+    {
+      "nombre": "erold leveille",
+      "empresa": "bleriot2014",
+      "email": "erold@gmail.com",
+      "telefono": "412575845",
+      "nota": "venta de mercaderia",
+      "id": 9
+    },
+    {
+      "nombre": "edrass ebraic",
+      "empresa": "loundry",
+      "email": "edrass@hotmail.com",
+      "telefono": "45852154",
+      "nota": "",
+      "id": 10
+    },
+    {
+      "nombre": "junior",
+      "empresa": "loundry",
+      "email": "junior@outmail.com",
+      "telefono": "45212546",
+      "nota": "lavador",
+      "id": 11
+    },
+    {
+      "nombre": "ednar joseph",
+      "empresa": "plaza caracas",
+      "email": "caracas@hotmail.com",
+      "telefono": "412258545",
+      "nota": "pantalones",
+      "id": 12
+    },
+    {
+      "nombre": "guirlande",
+      "empresa": "siloe",
+      "email": "siloe@gmail.com",
+      "telefono": "5421542401",
+      "nota": "vantre",
+      "id": 13
+    },
+    {
+      "nombre": "edmond pierre",
+      "empresa": "lambert saa",
+      "email": "edmond@yahoo.fr",
+      "telefono": "4072503098",
+      "nota": "",
+      "id": 15
+    },
+    {
+      "nombre": "claudel durandisse",
+      "empresa": "Marriot Hotel",
+      "email": "claude@gmail.com",
+      "telefono": "4078571254",
+      "nota": "chile",
+      "id": 16
+    }
+  ]
+}
